@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Prompt&display=swap');
+
+.image {
+
+    height: 8rem;
+    width: auto;
+}
+
+
+.headerchoice {
+
+    height: 10rem;
+}
+
+
+.footerchoice {
+
+    height: 6rem;
+
+}
+
+.header2 {
+    font-family: 'Prompt', sans-serif;
+}
+
+.imagebg {
+    background-image: url(img/error3.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+
+}
